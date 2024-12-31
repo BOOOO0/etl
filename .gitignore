@@ -313,3 +313,6 @@ terraform.rc
 설명
 
 /data
+
+var.tf
+secret.py
